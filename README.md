@@ -1,9 +1,9 @@
 # check_sap_sm12.py
 Nagios plugin for checking SAP lock table - sm12
 
-![](/images/check_sap_abortedjobs2.png)
+![](/images/check_sap_sm122.png)
 
-![](/images/check_sap_abortedjobs.png)
+![](/images/check_sap_sm12.png)
 
 
 Usage:./check_sap_sm12.py \<SID\> 
