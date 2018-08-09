@@ -1,5 +1,5 @@
 # check_sap_sm12.py
-Nagios plugin for checking SAP lock table - sm12
+Nagios plugin for checking SAP lock tables - sm12
 
 ![](/images/check_sap_sm122.png)
 
